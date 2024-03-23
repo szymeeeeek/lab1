@@ -1,0 +1,16 @@
+wynik_fun3_1 = calka_metoda_gauss_legendre_tablica(f2, 1, 4, 1, xk_1, wk_1);
+disp(wynik_fun3_1); % Wyświetlenie wyniku całki
+wynik_fun3_2 = calka_metoda_gauss_legendre_tablica(f2, 1, 4, 2, xk_2, wk_2);
+disp(wynik_fun3_2); % Wyświetlenie wyniku całki
+wynik_fun3_3 = calka_metoda_gauss_legendre_tablica(f2, 1, 4, 3, xk_3, wk_3);
+disp(wynik_fun3_3); % Wyświetlenie wyniku całki
+wynik_fun3_4 = calka_metoda_gauss_legendre_tablica(f2, 1, 4, 4, xk_4, wk_4);
+disp(wynik_fun3_4); % Wyświetlenie wyniku całki
+wynik_fun3_5 = calka_metoda_gauss_legendre_tablica(f2, 1, 4, 5, xk_5, wk_5);
+disp(wynik_fun3_5); % Wyświetlenie wyniku całki
+wynik_fun3_6 = calka_metoda_gauss_legendre_tablica(f2, 1, 4, 6, xk_6, wk_6);
+disp(wynik_fun3_6); % Wyświetlenie wyniku całki
+wynik_fun3_7 = calka_metoda_gauss_legendre_tablica(f2, 1, 4, 7, xk_7, wk_7);
+disp(wynik_fun3_7); % Wyświetlenie wyniku całki
+wynik_fun3_8 = calka_metoda_gauss_legendre_tablica(f2, 1, 4, 8, xk_8, wk_8);
+disp(wynik_fun3_8); % Wyświetlenie wyniku całki
